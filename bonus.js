@@ -1,5 +1,5 @@
 
-var romanToInt = function(s) {
+var romanToInt = function (s) {
     const values = {
         I: 1,
         V: 5,
@@ -22,3 +22,4 @@ var romanToInt = function(s) {
 
     return result;
 };
+
